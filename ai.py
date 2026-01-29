@@ -16,7 +16,7 @@ TELEGRAM_TOKEN = "8488492631:AAEBdYI4-gkLcsu-y2c0iFfFeA_Z0mIEfWg"
 GEMINI_API_KEY = "AIzaSyD2qNAkTphvy1jC601qBhn1soJQGbDNuE4"
 
 # Список доступных тем
-AVAILABLE_TOPICS = ["Python", "Финансы", "Психология", "Астрономия", "История"]
+AVAILABLE_TOPICS = ["Python", "Финансы", "Психология", "Политология", "История"]
 
 # Настройка логирования
 logging.basicConfig(
